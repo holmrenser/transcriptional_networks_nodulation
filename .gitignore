@@ -1,3 +1,9 @@
+orthogroups/
+Alignments/
+TFBS/
+*/*tpm.tsv
+*/*networks.tsv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
